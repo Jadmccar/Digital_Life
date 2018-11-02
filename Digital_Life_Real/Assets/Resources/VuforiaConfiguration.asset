@@ -18,10 +18,14 @@ MonoBehaviour:
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
-    useDelayedLoadingObjectTargets: 0
+    useDelayedLoadingObjectTargets: 1
     cameraDirection: 0
     mirrorVideoBackground: 0
+<<<<<<< HEAD
     version: 7.5.20
+=======
+    version: 7.2.23
+>>>>>>> 89f136dae2bdc666acce5d318bd10c38cc6c19ec
     eulaAccepted: 0
   digitalEyewear:
     cameraOffset: 0.06
@@ -64,7 +68,7 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: 
+    deviceNameSetInEditor: Logitech HD Webcam C270
     flipHorizontally: 0
     turnOffWebCam: 0
     renderTextureLayer: 30
