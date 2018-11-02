@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="digital_Life_Target_Image_Test1" size="1.000000 1.022523" />
     <ImageTarget name="dollarImage" size="5.000000 2.170088" />
   </Tracking>
 </QCARConfig>
